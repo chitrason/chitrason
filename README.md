@@ -2,6 +2,7 @@
 
 ![Chitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitrason&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitrason&layout=compact)](https://github.com/chitrason/github-readme-stats)
 
 <!--
 **chitrason/chitrason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
