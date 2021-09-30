@@ -19,7 +19,6 @@
     <h3>Operating System:</h3>
       <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&for-the-badge&logo=macos&logoColor=F0F0F0" />  </a>
   </div> -->
-  <hr>
   <div>
       <h3>Technologies:</h3>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
